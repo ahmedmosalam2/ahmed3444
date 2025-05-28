@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi i am Ahmed Mosalam
 
-<!--
-**ahmed3444/ahmed3444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🎓 I'm a 3rd-year AI Student  
+🔬 Interested in AI, Data Analysis, and Software Integration  
+📜 Certified by IBM in Data Analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Practical Experience
+
+- ✅ Python for AI, data analysis, and automation  
+- ✅ Machine Learning & Deep Learning basics  
+- ✅ Computer Vision – image processing & detection  
+- ✅ Databases – SQL & NoSQL fundamentals  
+- ✅ IoT Applications – worked with ESP32 and Arduino  
+- ✅ C & C++ programming  
+- ✅ Linux – command-line and scripting basics
