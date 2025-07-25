@@ -22,20 +22,18 @@
 ## 🛠️ Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,git,github,vscode,jupyter,mysql,postgres,docker,aws,azure,linux,cpp,flask,fastapi,selenium&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="50" height="50"/>
-  <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" alt="Streamlit" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="50" height="50"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="50" height="50"/>
-  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Data Visualization" width="50" height="50"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/openai-2.svg" alt="OpenAI" width="50" height="50"/>
+  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" /></a>
+  <a href="https://pytorch.org/"><img src="https://skillicons.dev/icons?i=pytorch&theme=dark" alt="PyTorch" /></a>
+  <a href="https://www.tensorflow.org/"><img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" alt="TensorFlow" /></a>
+  <a href="https://opencv.org/"><img src="https://skillicons.dev/icons?i=opencv&theme=dark" alt="OpenCV" /></a>
+  <a href="https://jupyter.org/"><img src="https://skillicons.dev/icons?i=jupyter&theme=dark" alt="Jupyter" /></a>
+  <a href="https://pandas.pydata.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="48" height="48"/></a>
+  <a href="https://numpy.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="48" height="48"/></a>
+  <a href="https://streamlit.io/"><img src="https://streamlit.io/images/brand/streamlit-mark-color.png" alt="Streamlit" width="48" height="48"/></a>
+  <a href="https://spark.apache.org/"><img src="https://spark.apache.org/images/spark-logo-trademark.png" alt="Apache Spark" width="48" height="48"/></a>
+  <a href="https://huggingface.co/"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="48" height="48"/></a>
+  <a href="https://openai.com/"><img src="https://cdn.worldvectorlogo.com/logos/openai-2.svg" alt="OpenAI" width="48" height="48"/></a>
+  <a href="https://www.langchain.com/"><img src="https://python.langchain.com/img/brand/wordmark.png" alt="LangChain" width="48" height="48"/></a>
 </p></p>
 
 ## 📊 GitHub Stats
